@@ -48,3 +48,5 @@ Configure your Git username and email globally.
 Set up a custom alias for a frequently used Git command.
 Use the git config command to verify your configuration changes.
 ################################################################################
+Tue Sep 26 08:25:21 PM UTC 2023
+#Changes for the version 2.0
