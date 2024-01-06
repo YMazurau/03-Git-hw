@@ -1,4 +1,4 @@
-Project Description.
+Project Description..
 
 Homework 02.Git. Local:
 
